@@ -1,6 +1,6 @@
 # DSC212 — Spectral Modularity on the Karate Club Network  
 **Author:** Saurabh Kumar Singh  
-**Roll Number:** IMS24291  
+**Roll Number:** IMS24217
 **Course:** DSC212 — Graph Theory  
 **Institute:** IISER Thiruvananthapuram  
 
